@@ -1,0 +1,208 @@
+.first-container {
+padding-left: 207px;
+display: flex;
+vertical-align: middle;
+text-align: center;
+}
+
+
+.weblogo{
+
+    font-style: normal;
+    font-size: 24;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.03;
+    color: blue;
+}
+
+.header-navigators{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    
+}
+.studio-txt{
+    padding-top: 20px;
+    padding-left:100px;
+}
+.portfolio-txt{
+    padding-top: 20px;
+    padding-left:100px;
+}
+.contact-txt{
+    padding-top: 20px;
+    padding-left:100px;
+}
+.email-txt{
+    padding-top: 6px;
+    padding-left:400px 
+       
+}
+.email-txt:hover{
+    background-color:red;
+}
+.phone-no{
+    padding-top: 6px;
+    padding-left:300px  
+}
+.phone-no:hover{
+    background-color:red
+}
+
+
+.heading-bgrd{
+    height: 776px;
+    background-color: #2F303A;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    display: flex;
+    }
+
+    .heading-txt{
+        font-size:44px;
+        font-family:"Roboto";
+        font-style:normal;
+        color: aliceblue;
+        text-align: center;
+        }
+
+        .button-ctrl{
+            color: white;
+            height: 50;
+            top: 562px;
+            height: 50px;
+            width: 200px;
+            background: blue;
+            box-shadow: 0px 4px 4px;
+            border-radius: 4px;
+            margin-right: 100px;
+            
+          
+}
+.core-values-container{
+ display: flex;
+width: 1080px;
+margin: 80px auto;
+}
+.core-value-content{
+    width:250px;
+    margin: 0 20px;
+}
+.core-value-title{
+    width: 270px;
+    height: 15.05px;
+    left: 215px;
+    top: 774px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+    
+}
+.core-value-description{
+    width: 270px;
+height: 70.54px;
+left: 215px;
+top: 798.46px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+.whatwedo{
+padding-left: 800px;
+width: 198px;
+height: 42px;
+left: 701px;
+top: 969px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+
+.image-container{
+    display:flex;
+    padding-left: 500px;
+    margin-bottom: 100px;
+}
+
+.phone-image{
+    padding-left: 20px;
+
+}
+.laptop-image{
+    padding-left: 20px;
+}
+.ourteam{
+    padding-left: 800px;
+    width: 165px;
+    height: 42px;
+    left: 718px;
+    top: 1543px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    }
+    
+    .team-container{
+        background: #F5F4FA;
+        width: 2000px;
+        top: 1449px;
+    }   
+   .team-imgs-container{
+    display: flex;
+    margin-left: 200px;
+   }
+
+   .footer-container{
+    width: 2000px;
+    height: 252px;
+    top: 2097px;
+    background: #2F303A;
+    padding-left: 207px;
+ 
+   }
+   .footer-weblogo{
+    font-style: normal;
+    font-size: 24;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.03;
+    color: blue;
+ }
+ .footers-add-container{
+ list-style-type: none;
+}
+.footers-ny-add{
+    color: #FFFFFF;
+}
+.footers-email-add{
+    color: #FFFFFF; 
+}
+.footers-phone-no{
+    color: #FFFFFF;
+}
+ 
+ 
